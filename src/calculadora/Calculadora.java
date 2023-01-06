@@ -6,7 +6,6 @@
 package calculadora;
 
 import java.awt.Font;
-import java.text.DecimalFormat;
 import javax.swing.UIManager;
 import javax.swing.UnsupportedLookAndFeelException;
 
