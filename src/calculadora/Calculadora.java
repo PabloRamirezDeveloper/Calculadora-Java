@@ -25,6 +25,7 @@ public class Calculadora extends javax.swing.JFrame {
     public Calculadora() {
         initComponents();
         this.setTitle("Calculadora");
+        this.setDefaultCloseOperation(EXIT_ON_CLOSE);
         this.setLocationRelativeTo(null);
 
     }

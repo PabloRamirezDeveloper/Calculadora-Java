@@ -1,3 +1,5 @@
 Manifest-Version: 1.0
-X-COMMENT: Main-Class will be added automatically by build
+Created-By: Pablo Ramirez
+Main-Class: Calculadora
+X-COMMENT: Calculadora Java Doble Click para ejecutar
 
